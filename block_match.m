@@ -1,5 +1,5 @@
 function [pts, pts2] = block_match(bx1, bx2, maxR, maxC, pflag)
-% block matching function sumof absolute difference. 
+% block matching function sum of absolute difference. 
 % copyright David Sinclair 2020
 %
 

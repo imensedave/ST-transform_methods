@@ -1,0 +1,5 @@
+convert img001874.jpeg eps2:img001874.eps
+convert img001875.jpeg eps2:img001875.eps
+convert lft0_00001.jpeg eps2:lft0_00001.eps
+convert rgt0_00001.jpeg eps2:rgt0_00001.eps
+convert UAE_0006b.jpg  eps2:UAE_0006b.eps
